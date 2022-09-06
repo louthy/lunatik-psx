@@ -2,7 +2,7 @@
 
 Lunatik for for Playstation 1 - This was a game I worked on in 1996/7 that ended up being cancelled by EIDOS.
 
-This is a playable version I found on an old CD. It runs ok on RetroArch ReARMed. 
+This is a playable version I found on an old CD. It runs ok on RetroArch ReARMed (from the `/image` folder). 
 
 I don't remember anything about this build, it certainly has bugs and seems to be a bit slow at times, so could either be running with my C engine, or the hardcore MIPS asm engine but still struggling with everything going on.  Really don't remember!
 
