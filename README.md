@@ -4,7 +4,7 @@
 
 This is a playable version I found on an old CD. It runs ok on RetroArch ReARMed (from the `/cdrom` folder). 
 
-The rules (as far I can tell) are (although with all the caveats of it not really being a fully fledged game idea!):
+The rules (as far I can tell and with all the caveats of it not really being a fully fledged game idea!) are:
 * Collect the glowing balls - you have to hover over them so they rise up for collection
 * Once you've done that - kill the boss gun
 * Don't get shot ;) 
