@@ -1,0 +1,1 @@
+The biggest a *.col file should be is 6k (if youwant bigger then change the code)
