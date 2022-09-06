@@ -9,6 +9,8 @@ The rules (as far I can tell) are (although with all the caveats of it not reall
 * Once you've done that - kill the boss gun
 * Don't get shot ;) 
 
+I _believe_ there are 3 levels.
+
 I don't remember much about this build, it certainly has bugs and seems to be a bit slow at times, so could either be running with my C engine, or my to-the-metal MIPS asm engine - it seems to struggle when there's lots going on, so it's possibly the former.  One thing I do know is that later in the project the level loading was super quick, and it isn't quick here, so it could be quite early - I think it may have been a demo for E3. Really don't remember though!
 
 ![image](https://user-images.githubusercontent.com/1991827/188653638-2d2b7faa-21cf-46ab-8a30-5137a411a9c5.png)
