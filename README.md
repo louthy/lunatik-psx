@@ -2,7 +2,7 @@
 
 [Lunatik for Playstation 1](https://www.unseen64.net/2020/11/16/lunatik-pure-entertainment-cancelled/#comment-377406) - This was a game I worked on in 1996/7 that ended up being cancelled by EIDOS. We had major problems trying to make this into a 3D Defender, and that primarily is why it was canned.
 
-This is a playable version I found on an old CD. It runs ok on RetroArch ReARMed (from the `/cdrom` folder). 
+This is an early playable version I found on an old CD. It runs ok on RetroArch ReARMed (from the `/cdrom` folder). 
 
 The rules (as far I can tell and with all the caveats of it not really being a fully fledged game idea!) are:
 * Collect the glowing balls - you have to hover over them so they rise up for collection
